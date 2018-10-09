@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fa5f55c-b14d-43a0-8d10-3fbba0798731" name="Default Changelist" comment="" />
+    <list default="true" id="9fa5f55c-b14d-43a0-8d10-3fbba0798731" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,63 +18,61 @@
     <session id="-1396687019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
-          <entry key="html" value="3" />
+          <entry key="css" value="4" />
+          <entry key="html" value="11" />
+          <entry key="js" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
-          <entry key="HTML" value="2" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="15" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="72" />
+          <entry key="css" value="21" />
+          <entry key="html" value="121" />
+          <entry key="js" value="5079" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="72" />
+          <entry key="CSS" value="21" />
+          <entry key="HTML" value="121" />
+          <entry key="JavaScript" value="5079" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="190">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/dropdownSolution.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/dropdownSolution.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -79,13 +80,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,6 +98,25 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/dropdownSolution.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/Dzien1tab.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/index.html" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/index1.html" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/app1.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app1.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie04.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie05.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/index.html" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app1.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/indexwykladowca.html" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/appwykladowca.js" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/index.html" />
+        <option value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js" />
       </list>
     </option>
   </component>
@@ -136,10 +160,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Angular2HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/dropdownSolution.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this" />
+      <recent name="$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,24 +194,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536917672798</updated>
-      <workItem from="1536917674352" duration="967000" />
+      <workItem from="1536917674352" duration="1753000" />
+      <workItem from="1537167748360" duration="23438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="967000" />
+    <option name="totallyTimeSpent" value="25191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="678" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -188,6 +215,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,13 +234,8 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/dropdownSolution.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Modul1/WAR_FER_S_41_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/dropdownSolution.html">
@@ -219,10 +245,165 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dodatkowe-kalkulator/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dodatkowe-kalkulator/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Dzien1tab.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="85" column="47" selection-start-line="85" selection-start-column="47" selection-end-line="85" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_1/3_Obiekty/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/appwykladowca.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/indexwykladowca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Modul2/WAR_FER_S_41_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
